@@ -1,0 +1,13 @@
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\bin\Debug\LuhnAlgorithmWin.exe.config
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\bin\Debug\LuhnAlgorithmWin.exe
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\bin\Debug\LuhnAlgorithmWin.pdb
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\obj\Debug\LuhnAlgorithmWin.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\obj\Debug\MainWindow.baml
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\obj\Debug\MainWindow.g.cs
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\obj\Debug\App.g.cs
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\obj\Debug\LuhnAlgorithmWin_MarkupCompile.cache
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\obj\Debug\LuhnAlgorithmWin.g.resources
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\obj\Debug\LuhnAlgorithmWin.Properties.Resources.resources
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\obj\Debug\LuhnAlgorithmWin.csproj.GenerateResource.Cache
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\obj\Debug\LuhnAlgorithmWin.exe
+C:\Users\Carlos\documents\visual studio 2013\Projects\LuhnAlgorithm\LuhnAlgorithmWin\obj\Debug\LuhnAlgorithmWin.pdb
